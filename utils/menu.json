@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Spicy Chicken Wings",
+      "is_veg": false,
+      "description": "Crispy, golden chicken wings marinated in a fiery blend of hot chili, garlic, paprika, and a dash of cayenne pepper. They offer a bold, spicy kick with a hint of tanginess from a vinegar-based sauce, and are served with a cooling blue cheese dip to balance the heat.",
+      "price": 8.99,
+      "category": "Appetizer"
+    },
+    {
+      "id": 2,
+      "name": "Paneer Tikka Masala",
+      "is_veg": true,
+      "description": "Soft cubes of paneer marinated in a yogurt mixture with red chili powder, turmeric, and garam masala. Grilled to perfection and simmered in a creamy, tomato-based sauce enriched with fenugreek and cumin. Offers moderate spice with a rich, savory finish.",
+      "price": 10.50,
+      "category": "Main Course"
+    },
+    {
+      "id": 3,
+      "name": "Pepperoni Pizza",
+      "is_veg": false,
+      "description": "A classic Italian-style pizza with a thin, crispy crust, zesty tomato sauce, and a generous layer of melted mozzarella. Topped with spicy pepperoni slices and a sprinkle of red pepper flakes to add a subtle heat without overwhelming the palate.",
+      "price": 12.99,
+      "category": "Main Course"
+    },
+    {
+      "id": 4,
+      "name": "Veggie Delight Burger",
+      "is_veg": true,
+      "description": "A hearty burger made from a blend of black beans, quinoa, and spices. Topped with fresh lettuce, tomato, and avocado, it offers a mildly spiced, satisfying flavor profile. Perfect for those who desire a fulfilling yet non-spicy option.",
+      "price": 9.50,
+      "category": "Main Course"
+    },
+    {
+      "id": 5,
+      "name": "Sichuan Spicy Noodles",
+      "is_veg": false,
+      "description": "Stir-fried noodles tossed in a bold Sichuan sauce featuring chili oil, garlic, and Sichuan peppercorns that deliver a vibrant, tongue-tingling heat with a numbing sensation. Includes tender beef slices and crisp vegetables for a complex, layered flavor.",
+      "price": 11.99,
+      "category": "Main Course"
+    },
+    {
+      "id": 6,
+      "name": "Mild Butter Chicken",
+      "is_veg": false,
+      "description": "Tender chicken pieces simmered in a creamy, buttery tomato sauce with mild spices such as cumin and coriander. This dish is rich and comforting, offering a velvety texture and subtle spice that appeals to those who prefer less heat.",
+      "price": 13.50,
+      "category": "Main Course"
+    },
+    {
+      "id": 7,
+      "name": "Spicy Lamb Curry",
+      "is_veg": false,
+      "description": "Slow-cooked lamb in a robust, aromatic curry sauce with red chili, ginger, garlic, and a blend of Indian spices. This curry is known for its deep, intense heat balanced by savory flavors, making it a top pick for spice enthusiasts.",
+      "price": 15.99,
+      "category": "Main Course"
+    },
+    {
+      "id": 8,
+      "name": "Hot and Sour Soup",
+      "is_veg": true,
+      "description": "A light, flavorful soup with a clear broth seasoned with chili paste, vinegar, and a hint of soy sauce. Loaded with mushrooms, tofu, and bamboo shoots, this soup offers a gentle spicy warmth paired with a refreshing sour tang.",
+      "price": 5.99,
+      "category": "Appetizer"
+    },
+    {
+      "id": 9,
+      "name": "Spicy Shrimp Tacos",
+      "is_veg": false,
+      "description": "Grilled shrimp tossed in a spicy chipotle marinade, served in soft corn tortillas with crisp cabbage, avocado slices, and a zesty lime crema. The tacos are bursting with flavor and offer a satisfying, spicy crunch.",
+      "price": 10.99,
+      "category": "Main Course"
+    },
+    {
+      "id": 10,
+      "name": "Crispy Falafel Wrap",
+      "is_veg": true,
+      "description": "Homemade falafel made from ground chickpeas and herbs, deep-fried until crisp. Wrapped in a soft pita with fresh lettuce, tomatoes, cucumbers, and drizzled with a tangy tahini sauce. A flavorful, aromatic option with a gentle spice level.",
+      "price": 8.50,
+      "category": "Main Course"
+    },
+    {
+      "id": 11,
+      "name": "Buffalo Cauliflower Bites",
+      "is_veg": true,
+      "description": "Crispy cauliflower florets battered and baked, then tossed in a tangy buffalo sauce made with hot sauce and a hint of garlic. Served with a side of ranch dressing, these bites offer a spicy, crunchy, and satisfying snack.",
+      "price": 7.99,
+      "category": "Appetizer"
+    },
+    {
+      "id": 12,
+      "name": "Grilled Salmon with Chili Glaze",
+      "is_veg": false,
+      "description": "Fresh salmon fillet grilled to perfection and brushed with a sweet and spicy chili glaze. The glaze is a blend of chili sauce, honey, and lime juice, providing a balance of heat and sweetness that enhances the natural flavor of the salmon.",
+      "price": 16.99,
+      "category": "Main Course"
+    },
+    {
+      "id": 13,
+      "name": "Spicy Thai Basil Stir-Fry",
+      "is_veg": false,
+      "description": "A vibrant stir-fry featuring thinly sliced chicken, bell peppers, and green beans, cooked with fresh Thai basil and a spicy sauce made from red chilies, garlic, and soy sauce. This dish offers a punch of heat and aromatic herbal notes.",
+      "price": 12.50,
+      "category": "Main Course"
+    },
+    {
+      "id": 14,
+      "name": "Quinoa and Black Bean Salad",
+      "is_veg": true,
+      "description": "A refreshing salad with protein-packed quinoa, black beans, cherry tomatoes, corn, and avocado, tossed in a zesty lime-cilantro dressing. While not spicy by default, it can be made with a kick by adding a dash of chili powder or fresh jalapeños.",
+      "price": 9.99,
+      "category": "Appetizer"
+    },
+    {
+      "id": 15,
+      "name": "Chili Chocolate Brownie",
+      "is_veg": true,
+      "description": "Decadent, fudgy brownie infused with a subtle hint of chili pepper that accentuates the rich chocolate flavor. This dessert offers a unique twist where the warmth of chili complements the sweetness of the chocolate, making it a delightful finish to any meal.",
+      "price": 4.99,
+      "category": "Dessert"
+    }
+]
+  
